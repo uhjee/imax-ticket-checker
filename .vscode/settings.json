@@ -1,5 +1,8 @@
 {
     "workbench.colorCustomizations": {
-        "editor.findMatchBackground": "#d84646"
+        "editor.findMatchBackground": "#d84646",
+        "tab.activeBorder": "#c78738",
+        "statusBar.background": "#c78738",
+        "statusBar.foreground": "#000000"
     }
 }
